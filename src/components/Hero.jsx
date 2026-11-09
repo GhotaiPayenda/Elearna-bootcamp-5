@@ -168,7 +168,7 @@ export default function Hero() {
               whileInView="visible"
               viewport={viewport}
               variants={slideInBottom}
-              className="mb-[30px] text-white max-[767px]:mb-[20px]"
+              className="mb-[30px] text-white opacity-70 max-[767px]:mb-[20px]"
             >
               Lorem ipsum dolor sit amet consectetur. Gravida enim risus
               sollicitudin mauris tincidunt commodo ornare.
